@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enguerran Smagghe</h1>
-<h3 align="center">Frontend developer junior</h3>
+<h3 align="center">Frontend developer</h3>
 
 - 🌱 I’m currently learning **Javascript trough its framework REACT.**
 
