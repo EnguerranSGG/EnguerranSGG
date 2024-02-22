@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I'm Enguerran ! A french Junior developer !<br><br>🌱 I've learned JavaScript  and its libraries REACT and REDUX and now I’m currently learning C# trought its framework .NET.  <br><br>👨‍💻 If you want to know more about me and my project : <br><br>https://enguerransgg.github.io/CV_Portfolio/<br><br>
+Hi I'm Enguerran ! A french Junior developer !<br><br>🌱 I've learned JavaScript  and its libraries REACT and REDUX and now I’m currently learning C# trought its framework .NET.  <br><br>👨‍💻 If you want to know more about me and my project : <br><br>https://enguerran-smagghe-portfolio.netlify.app/<br><br>
 
 
 ## 🌐 Socials:
