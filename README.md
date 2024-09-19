@@ -1,5 +1,5 @@
 # About Me:
-Hi, i'm Enguerran ! <br><br>By past, I was a student in political science specialised in European Affairs but now I'm a passionate junior developer. <br><br>Actually, I am primarily looking to improve my object-oriented programming skills while maintaining a foothold in project management. 🌱<br><br>If you want to know more about me or my project, please feel free to check out my portfolio through the link below :<br><br>https://enguerran-smagghe-portfolio.netlify.app/
+Hi, I'm Enguerran ! <br><br>By past, I was a student in political science specialised in European Affairs but now I'm a passionate junior developer. <br><br>Actually, I am primarily looking to improve my object-oriented programming skills while maintaining a foothold in project management. 🌱<br><br>If you want to know more about me or my project, please feel free to check out my portfolio through the link below :<br><br>https://enguerran-smagghe-portfolio.netlify.app/
 
 
 ## 🌐 Socials:
