@@ -1,6 +1,26 @@
 # About Me:
-Hi, I'm Enguerran ! <br><br>By past, I was a student in political science specialised in European Affairs but now I'm a passionate junior developer. <br><br>Actually, I am primarily looking to improve my object-oriented programming skills while maintaining a foothold in project management. 🌱<br><br>If you want to know more about me or my project, please feel free to check out my portfolio through the link below :<br><br>https://enguerran-smagghe-portfolio.netlify.app/
 
+👋 Hi, I'm **Enguerran Smagghe**, a passionate junior developer eager to learn and grow!  
+
+🎓 Previously a student in political science specializing in European Affairs, I’ve transitioned to software development, where I’ve found my true passion.  
+
+💻 **Key Skills**:  
+- Programming Languages: **C#, Java, TypeScript**  
+- Frameworks and Libraries: **.NET Core, Spring, Angular, React**  
+- Databases: **PostgreSQL**  
+- Tools: **Git, Docker, Figma, Jira**  
+
+🚀 **Notable Projects**:  
+- Developed Discord bots for **Simplon Hauts-de-France**  
+- Built a catalog website for **La Farandole**  
+
+🎯 I am currently seeking a **3-month internship (March 10 to June 5, 2025)** to complete my **Application Developer Certification** (equivalent to a bachelor’s degree). I am highly motivated to contribute to projects leveraging modern technologies and to deepen my skills in object-oriented programming.  
+
+🌍 Looking ahead, I plan to continue my studies in a work-study program while building expertise in project management and software development.  
+
+📫 **Feel free to check out my portfolio to learn more about me and my projects!**  
+
+<br><br>If you want to know more about me or my project, please feel free to check out my portfolio through the link below :<br><br>https://enguerran-smagghe-portfolio.netlify.app/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/enguerran-smagghe/) 
