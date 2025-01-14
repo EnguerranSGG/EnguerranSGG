@@ -19,7 +19,7 @@
 🌍 Looking ahead, I plan to continue my studies in a work-study program while building expertise in project management and software development.  
 
 📫 **Feel free to check out my portfolio through the link below to learn more about me and my projects!**  
-<br><br>https://enguerran-smagghe-portfolio.netlify.app/
+<br>https://enguerran-smagghe-portfolio.netlify.app/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/enguerran-smagghe/) 
