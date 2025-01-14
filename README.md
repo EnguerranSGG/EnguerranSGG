@@ -4,13 +4,13 @@
 
 🎓 Previously a student in political science specializing in European Affairs, I’ve transitioned to software development, where I’ve found my true passion.  
 
-💻 **Key Skills**:  
+💻 ## Key Skills :  
 - Programming Languages: **C#, Java, TypeScript**  
 - Frameworks and Libraries: **.NET Core, Spring, Angular, React**  
 - Databases: **PostgreSQL**  
 - Tools: **Git, Docker, Figma, Jira**  
 
-🚀 **Notable Projects**:  
+🚀 ## Notable Projects :  
 - Developed Discord bots for **Simplon Hauts-de-France**  
 - Built a catalog website for **La Farandole**  
 
